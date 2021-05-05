@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is chapter 3. In this chapter we are going to discuss about the healthy growth of babies.
+=======
+This is chapter 3.Monkey and Lion.
+>>>>>>> alien-plot
